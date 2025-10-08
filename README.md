@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Berkan%20%C3%96ks%C3%BCz-800000?style=flat&logo=linkedin" />
   </a>
 
+<p align="center">
+  <img src="./assets/ita.gif" alt="Itachi: Sharingan → Mangekyo" width="320">
+</p>
+
 </p>
 
 ---
