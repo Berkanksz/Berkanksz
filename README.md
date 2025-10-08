@@ -52,7 +52,6 @@
 - **WellCity (Data + Maps)** – Livability visualization over Turkey (data-driven map)  
 - **HackNASA Experiments** – End-to-end raster processing & CSV pipelines  
 
-> 🔗 Pin key repos on your profile so they appear here.
 
 ---
 
