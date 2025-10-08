@@ -44,13 +44,6 @@
   <img src="https://img.shields.io/badge/GitHub-800000?logo=github&logoColor=white" />
 </p>
 
-
-### 🚀 Featured Projects
-- **ReyzApp (ASP.NET + MySQL + Python)** – HR salary tracking, raise requests, predictive analysis  
-- **WellCity (Data + Maps)** – Livability visualization over Turkey (data-driven map)  
-- **HackNASA Experiments** – End-to-end raster processing & CSV pipelines  
-
-
 ---
 <p align="center">
   <em>“Keep building, keep learning.”</em>
