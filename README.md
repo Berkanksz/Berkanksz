@@ -1,4 +1,4 @@
-<!-- Profile README (Bordo Theme) -->
+<!-- Profile README -->
 <p align="center">
   <img src="assets/banner.svg" alt="Berkan Öksüz – Data & AI" width="100%"/>
 </p>
@@ -46,18 +46,6 @@
   <img src="https://img.shields.io/badge/GitHub-800000?logo=github&logoColor=white" />
 </p>
 
----
-
-### 🏆 Certificates
-- Deep Learning Onramp (2025)
-- Image Processing Onramp (2025)
-- MATLAB Onramp (2024)
-- Signal Processing Onramp (2024)
-- Machine Learning Onramp (2024)
-- OBSS CodeMaster (2024)
-- Techvision Summit (2024)
-
----
 
 ### 🚀 Featured Projects
 - **ReyzApp (ASP.NET + MySQL + Python)** – HR salary tracking, raise requests, predictive analysis  
@@ -71,7 +59,7 @@
 ### 📬 Contact
 - Mail: **berkanksz01@gmail.com**  
 - LinkedIn: **/in/berkan-öksüz-1a96b7219**
-
+- Instagram: **Berkan.ksz**
 <p align="center">
   <em>“Keep building, keep learning.”</em>
 </p>
