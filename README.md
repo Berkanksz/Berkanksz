@@ -10,14 +10,12 @@
   <a href="https://www.linkedin.com/in/berkan-öksüz-1a96b7219/">
     <img src="https://img.shields.io/badge/LinkedIn-Berkan%20%C3%96ks%C3%BCz-800000?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/Berkanksz">
-    <img src="https://img.shields.io/badge/GitHub-@Berkanksz-800000?style=flat&logo=github" />
-  </a>
+
 </p>
 
 ---
 
-### 👋 Hello, I’m Berkan
+### Hello, I’m Berkan
 > Computer Engineering student focusing on **AI, Machine Learning, and Data**. I enjoy turning ideas into working products and learning by building.
 
 - 🎓 Senior Computer Engineering student @ Düzce University  
@@ -54,11 +52,6 @@
 
 
 ---
-
-### 📬 Contact
-- Mail: **berkanksz01@gmail.com**  
-- LinkedIn: **/in/berkan-öksüz-1a96b7219**
-- Instagram: **Berkan.ksz**
 <p align="center">
   <em>“Keep building, keep learning.”</em>
 </p>
