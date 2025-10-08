@@ -1,6 +1,6 @@
 <!-- Profile README -->
 <p align="center">
-  <img src="./assets/shinobi.png" alt="Berkan Öksüz – Data & AI" width="100%"/>
+  <img src="./assets/shino.png" alt="Berkan Öksüz – Data & AI" width="100%"/>
 </p>
 
 <p align="center">
