@@ -13,7 +13,6 @@
 <div align="center">
 <a href="mailto:berkanksz01@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" /></a>
 <a href="https://www.linkedin.com/in/berkan-öksüz-1a96b7219"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
-<a href="https://github.com/Berkanksz"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
 </div>
 
 ---
@@ -63,16 +62,11 @@ I am a **Computer Engineer** specializing in **Artificial Intelligence, Machine 
 ### 🧬 <code>Data.Stream() & Telemetry</code>
 
 <div align="center">
-<!-- Hareketli, Neon Işıklı Çizgi Grafik -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Berkanksz&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=100&color=00F0FF&center=true&vCenter=true&width=800&height=100&multiline=true&lines=import+tensorflow+as+tf;df.dropna(inplace=True);Initializing+predictive+analysis...;Model+training+started...;Epoch+1/50...;Validation+accuracy:+94.2%25;Connection+established.;Data+streams+synchronized." alt="Data Stream" />
+</a>
 <br>
-
-<div align="center">
-<!-- Yüklenme Animasyonlu Yatay Bar Grafikleri -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkanksz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" height="165" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=Berkanksz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Berkanksz&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
