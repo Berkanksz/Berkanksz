@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=100&color=00F0FF&center=true&vCenter=true&width=600&height=30&lines=%5B%2B%5D+Loading+datasets...;%5B%2B%5D+Training+Neural+Network...;%5B%2B%5D+Optimizing+Algorithms...;%5B%2B%5D+System+Ready." alt="Data Logs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=100&color=00F0FF&center=true&vCenter=true&width=600&height=30&lines=%5B%2B%5D+System+Ready.;%5B%2B%5D+Loading+datasets...;%5B%2B%5D+Training+Neural+Network...;%5B%2B%5D+Optimizing+Algorithms..." alt="Data Logs" />
 </a>
 </div>
 
@@ -40,15 +40,6 @@ I am a **Computer Engineer** specializing in **Artificial Intelligence, Machine 
 
 ---
 
-### 🧬 <code>Data.Stream()</code>
-<div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=100&color=00F0FF&center=false&vCenter=false&width=800&height=120&multiline=true&lines=import+tensorflow+as+tf;df.dropna(inplace=True);Initializing+predictive+analysis...;Model+training+started...;Epoch+1/50...;Validation+accuracy:+94.2%25;Connection+established.;Data+streams+synchronized." alt="Data Stream" />
-</a>
-</div>
-
----
-
 ### 💻 <code>System.TechStack()</code>
 
 <div align="center">
@@ -69,10 +60,19 @@ I am a **Computer Engineer** specializing in **Artificial Intelligence, Machine 
 
 ---
 
-### 📈 <code>System.Telemetry()</code>
+### 🧬 <code>Data.Stream() & Telemetry</code>
 
 <div align="center">
+<!-- Hareketli, Neon Işıklı Çizgi Grafik -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berkanksz&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+<!-- Yüklenme Animasyonlu Yatay Bar Grafikleri -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkanksz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Berkanksz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" height="165" alt="GitHub Stats" />
 </div>
 
 <br>
