@@ -1,44 +1,35 @@
 <div align="center">
-  
-  <!-- Dev/Data Header Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=BERKAN+%C3%96KS%C3%9CZ;DATA+SCIENCE;ARTIFICIAL+INTELLIGENCE;FULL-STACK+DEVELOPER" alt="Typing SVG" />
-  </a>
-  
-  <br>
+  <!-- Hareketli Dalga (Wave) Efekti -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=250&section=header&text=Berkan%20%C3%96ks%C3%BCz&fontSize=60&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack&descAlignY=55&descAlign=50&fontColor=ffffff&descSize=20" alt="Header" />
+</div>
+
+<div align="center">
   <p><b>Computer Engineer (Graduated @ Düzce University)</b></p>
   
-  <!-- Running Data Logs Animation (Hızlı Akan Kod Simülasyonu) -->
+  <!-- Hızlı Akan Neon Log Animasyonu -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=100&color=00F0FF&center=true&vCenter=true&width=600&height=30&lines=%5B%2B%5D+Loading+datasets...;%5B%2B%5D+Training+Neural+Network...;%5B%2B%5D+Optimizing+Algorithms...;%5B%2B%5D+System+Ready." alt="Data Logs" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=100&color=00F0FF&center=true&vCenter=true&width=600&height=30&lines=%5B%2B%5D+Loading+datasets...;%5B%2B%5D+Training+Neural+Network...;%5B%2B%5D+Optimizing+Algorithms...;%5B%2B%5D+System+Ready." alt="Data Logs" />
   </a>
-
 </div>
 
 <br>
 
 <div align="center">
-  <a href="mailto:berkanksz01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/berkan-öksüz-1a96b7219">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Berkanksz">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
-  </a>
+  <a href="mailto:berkanksz01@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" /></a>
+  <a href="https://www.linkedin.com/in/berkan-öksüz-1a96b7219"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+  <a href="https://github.com/Berkanksz"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
 </div>
 
 ---
 
 <div align="center">
   <br>
-  <!-- Göz Yormayan Koyu Renk Portfolyo Butonu -->
+  <!-- Koyu Zemin Üzerinde Parlayan Neon Link -->
   <a href="https://berkanoksuz.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_ENTER_3D_PORTFOLIO-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF&color=0D1117" alt="Portfolio" />
   </a>
   <br><br>
-  <a href="https://berkanoksuz.vercel.app/" style="color: #6e7681; text-decoration: none;"><i>berkanoksuz.vercel.app</i></a>
+  <a href="https://berkanoksuz.vercel.app/" style="color: #00F0FF; text-decoration: none;"><i><b>berkanoksuz.vercel.app</b></i></a>
   <br><br>
 </div>
 
@@ -58,12 +49,14 @@
         <li><b>Project:</b> <b>TİD Translation System</b> (Python, CNNs, Swift) - Real-time sign language translation</li>
       </ul>
     </td>
-    <td width="45%" valign="top" align="center">
+    <td width="45%" valign="top">
       <h3>🧬 <code>Data.Stream()</code></h3>
-      <!-- Data/Machine Learning Kod Akış Animasyonu -->
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=200&color=00F0FF&center=false&vCenter=true&width=350&height=250&lines=import+tensorflow+as+tf;model.add(Dense(128,+activation='relu'));df.dropna(inplace=True);SELECT+*+FROM+neural_net;01001011+01000001+01001110;if+(data.is_clean())+%7B+train();+%7D;Initializing+predictive+analysis...;Data+streams+synchronized." alt="Binary Stream" />
-      </a>
+      <!-- 5 Farklı Hızda Çalışan Çok Satırlı Terminal / Neon Veri Akışı -->
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=100&color=00F0FF&center=false&vCenter=false&width=350&height=25&lines=import+tensorflow+as+tf;df.dropna(inplace=True);SELECT+*+FROM+neural_net;01001011+01000001" /></a><br>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=500&color=00F0FF&center=false&vCenter=false&width=350&height=25&lines=Initializing+predictive+analysis...;Model+training+started...;Epoch+1/50...;Validation+accuracy:+94.2%25" /></a><br>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=800&color=00F0FF&center=false&vCenter=false&width=350&height=25&lines=Connecting+to+database...;Connection+established.;Data+streams+synchronized.;Awaiting+input..." /></a><br>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=300&color=00F0FF&center=false&vCenter=false&width=350&height=25&lines=var+scene+=+new+THREE.Scene();camera.position.z+=+5;;renderer.render(scene,+camera);" /></a><br>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1200&color=00F0FF&center=false&vCenter=false&width=350&height=25&lines=%5BOK%5D+System+Kernel+Online;%5BOK%5D+API+Endpoints+Active;%5BOK%5D+WebGL+Context+Rendered" /></a>
     </td>
   </tr>
 </table>
@@ -88,8 +81,18 @@
   <br>
 </div>
 
+---
+
+### 📈 <code>System.Telemetry()</code>
+
+<div align="center">
+  <!-- Hareketli, Neon Işıklı Çizgi Grafik -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berkanksz&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
 <br>
 
 <div align="center">
-  <i>"Engineered for the future."</i>
+  <!-- Hareketli Alt Dalga Efekti -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" />
 </div>
