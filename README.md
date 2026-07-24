@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Hareketli Dalga (Wave) Efekti -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=250&section=header&text=Berkan%20%C3%96ks%C3%BCz&fontSize=60&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack&descAlignY=55&descAlign=50&fontColor=ffffff&descSize=20" alt="Header" />
+  <!-- Sorunsuz Yüklenen Dalga (Wave) Efekti -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=Berkan%20Oksuz&fontSize=60&fontAlignY=35&desc=Computer%20Engineer%20%7C%20AI%20and%20Data%20Science&descAlignY=55&descAlign=50&fontColor=ffffff&descSize=20" alt="Header" />
 </div>
 
 <div align="center">
@@ -39,9 +39,8 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🚀 <code>System.About()</code></h3>
-      <p>I am a <b>Software Engineer</b> specializing in <b>Artificial Intelligence, Machine Learning, and Full-Stack Development</b>. I focus on building scalable web applications and intelligent predictive models.</p>
-      <p>My goal is to turn raw data into actionable intelligence and architect systems that are both powerful and elegantly designed.</p>
-      <br>
+      <p>I am a <b>Computer Engineer</b> specializing in <b>Artificial Intelligence, Machine Learning, and Full-Stack Development</b>. I focus on building scalable web applications and intelligent predictive models. My goal is to turn raw data into actionable intelligence and architect systems that are both powerful and elegantly designed.</p>
+      
       <h3>💼 <code>System.Experience()</code></h3>
       <ul>
         <li><b>Current:</b> Backend AI Engineering Intern @ FlyRank AI</li>
@@ -51,12 +50,10 @@
     </td>
     <td width="45%" valign="top">
       <h3>🧬 <code>Data.Stream()</code></h3>
-      <!-- 5 Farklı Hızda Çalışan Çok Satırlı Terminal / Neon Veri Akışı -->
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=100&color=00F0FF&center=false&vCenter=false&width=350&height=25&lines=import+tensorflow+as+tf;df.dropna(inplace=True);SELECT+*+FROM+neural_net;01001011+01000001" /></a><br>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=500&color=00F0FF&center=false&vCenter=false&width=350&height=25&lines=Initializing+predictive+analysis...;Model+training+started...;Epoch+1/50...;Validation+accuracy:+94.2%25" /></a><br>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=800&color=00F0FF&center=false&vCenter=false&width=350&height=25&lines=Connecting+to+database...;Connection+established.;Data+streams+synchronized.;Awaiting+input..." /></a><br>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=300&color=00F0FF&center=false&vCenter=false&width=350&height=25&lines=var+scene+=+new+THREE.Scene();camera.position.z+=+5;;renderer.render(scene,+camera);" /></a><br>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1200&color=00F0FF&center=false&vCenter=false&width=350&height=25&lines=%5BOK%5D+System+Kernel+Online;%5BOK%5D+API+Endpoints+Active;%5BOK%5D+WebGL+Context+Rendered" /></a>
+      <!-- Tek bir resimde, yukarıdan aşağıya gerçek bir terminal gibi yazılan kodlar (multiline=true) -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=100&color=00F0FF&center=false&vCenter=false&width=350&height=250&multiline=true&lines=import+tensorflow+as+tf;df.dropna(inplace=True);Initializing+predictive+analysis...;Model+training+started...;Epoch+1/50...;Validation+accuracy:+94.2%25;Connecting+to+database...;Connection+established.;Data+streams+synchronized.;%5BOK%5D+System+Kernel+Online;%5BOK%5D+API+Endpoints+Active;Awaiting+input..." alt="Data Stream" />
+      </a>
     </td>
   </tr>
 </table>
