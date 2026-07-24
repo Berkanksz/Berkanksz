@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=Berkan%20%C3%96KS%C3%9CZ&fontSize=60&fontAlignY=35&desc=Computer%20Engineer%20%7C%20AI%20and%20Data%20Science&descAlignY=55&descAlign=50&fontColor=ffffff&descSize=20" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=Berkan%20%C3%96ks%C3%BCz&fontSize=60&fontAlignY=35&desc=Computer%20Engineer%20%7C%20AI%20and%20Data%20Science&descAlignY=55&descAlign=50&fontColor=ffffff&descSize=20" alt="Header" />
 </div>
 
 <div align="center">
@@ -30,26 +30,22 @@
 
 ---
 
-<table width="100%" align="center" style="border: none;">
-<tr>
-<td width="55%" valign="top">
-<h3>🚀 <code>System.About()</code></h3>
-<p>I am a <b>Computer Engineer</b> specializing in <b>Artificial Intelligence, Machine Learning, and Full-Stack Development</b>. I focus on building scalable web applications and intelligent predictive models. My goal is to turn raw data into actionable intelligence and architect systems that are both powerful and elegantly designed.</p>
-<h3>💼 <code>System.Experience()</code></h3>
-<ul>
-<li><b>Current:</b> Backend AI Engineering Intern @ FlyRank AI</li>
-<li><b>Previous:</b> Software Developer Intern @ NetCollec</li>
-<li><b>Project:</b> <b>TİD Translation System</b> (Python, CNNs, Swift) - Real-time sign language translation</li>
-</ul>
-</td>
-<td width="45%" valign="top">
-<h3>🧬 <code>Data.Stream()</code></h3>
+### 🚀 <code>System.About()</code>
+I am a **Computer Engineer** specializing in **Artificial Intelligence, Machine Learning, and Full-Stack Development**. I focus on building scalable web applications and intelligent predictive models. My goal is to turn raw data into actionable intelligence and architect systems that are both powerful and elegantly designed.
+
+### 💼 <code>System.Experience()</code>
+* **Current:** Backend AI Engineering Intern @ FlyRank AI
+* **Previous:** Software Developer Intern @ NetCollec
+* **Project:** **TİD Translation System** (Python, CNNs, Swift) - Real-time sign language translation
+
+---
+
+### 🧬 <code>Data.Stream()</code>
+<div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=100&color=00F0FF&center=false&vCenter=false&width=350&height=250&multiline=true&lines=import+tensorflow+as+tf;df.dropna(inplace=True);Initializing+predictive+analysis...;Model+training+started...;Epoch+1/50...;Validation+accuracy:+94.2%25;Connecting+to+database...;Connection+established.;Data+streams+synchronized.;%5BOK%5D+System+Kernel+Online;%5BOK%5D+API+Endpoints+Active;Awaiting+input..." alt="Data Stream" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=100&color=00F0FF&center=false&vCenter=false&width=800&height=120&multiline=true&lines=import+tensorflow+as+tf;df.dropna(inplace=True);Initializing+predictive+analysis...;Model+training+started...;Epoch+1/50...;Validation+accuracy:+94.2%25;Connection+established.;Data+streams+synchronized." alt="Data Stream" />
 </a>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
