@@ -73,6 +73,12 @@ Full-stack employee management platform with an integrated ML model for salary-i
 - **B.S. in Computer Science** — Düzce University *(Sep 2024 – Sep 2026)*
 - **B.S. in Computer Science** — Near East University, Nicosia *(Sep 2022 – Jun 2024)*
 
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Berkanksz/Berkanksz/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
+</div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" />
 </div>
