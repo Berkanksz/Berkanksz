@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=00F0FF&amp;height=180&amp;section=header&amp;text=BERKAN%20ÖKSÜZ&amp;fontSize=48&amp;fontAlignY=38&amp;desc=Computer%20Engineer%20·%20AI%20%26%20Data%20Science&amp;descAlignY=58&amp;descAlign=50&amp;fontColor=000000&amp;descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=00F0FF&amp;height=180&amp;section=header&amp;text=BERKAN%20%C3%96KS%C3%9CZ&amp;fontSize=48&amp;fontAlignY=38&amp;desc=Computer%20Engineer%20%C2%B7%20AI%20%26%20Data%20Science&amp;descAlignY=58&amp;descAlign=50&amp;fontColor=000000&amp;descSize=18" alt="header" />
 </div>
 
 <div align="center">
@@ -30,11 +30,11 @@ Computer Engineer specializing in **deep learning, computer vision, and full-sta
 
 ## Featured Projects
 
-** Turkish Sign Language (TİD) Translation & Recognition System** — *Sep 2025 – Jun 2026*
+**Turkish Sign Language (TİD) Translation & Recognition System** — *Sep 2025 – Jun 2026*
 Real-time system translating Turkish Sign Language gestures into text and speech. Includes a custom-trained CNN for hand gesture recognition and a bidirectional feature that converts spoken/written Turkish into TİD signs, with a Swift mobile UI.
 `Python` `TensorFlow` `CNNs` `Swift`
 
-** Employee Salary Prediction System** — *Jul 2025 – Aug 2025*
+**Employee Salary Prediction System** — *Jul 2025 – Aug 2025*
 Full-stack employee management platform with an integrated ML model for salary-increase prediction, backed by an optimized SQL schema.
 `ASP.NET MVC` `Python` `SQL`
 
