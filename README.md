@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=180&section=header&text=Berkan%20Öksüz&fontSize=48&fontAlignY=38&desc=Computer%20Engineer%20·%20AI%20%26%20Data%20Science&descAlignY=58&descAlign=50&fontColor=ffffff&descSize=18" alt="header" />
-</div>
+
 
 <div align="center">
 
@@ -15,7 +13,7 @@
 
 ## About Me
 
-Computer Engineer specializing in **deep learning, computer vision, and full-stack development**. I have hands-on experience deploying ML pipelines to production, building CNN-based recognition systems, and optimizing backend APIs for high-volume data processing. I've worked on cross-cultural teams across Turkey, Cyprus, and Bulgaria, and I care about turning research-grade models into real, working products.
+Computer Engineer specializing in **deep learning, computer vision, and full-stack development**. I have hands on experience deploying ML pipelines to production, building CNN based recognition systems, and optimizing backend APIs for high-volume data processing. I've worked on cross cultural teams across Turkey, Cyprus, and Bulgaria, and I care about turning research grade models into real, working products.
 
 ## Experience
 
@@ -28,11 +26,11 @@ Computer Engineer specializing in **deep learning, computer vision, and full-sta
 
 ## Featured Projects
 
-**🤟 Turkish Sign Language (TİD) Translation & Recognition System** — *Sep 2025 – Jun 2026*
+** Turkish Sign Language (TİD) Translation & Recognition System** — *Sep 2025 – Jun 2026*
 Real-time system translating Turkish Sign Language gestures into text and speech. Includes a custom-trained CNN for hand gesture recognition and a bidirectional feature that converts spoken/written Turkish into TİD signs, with a Swift mobile UI.
 `Python` `TensorFlow` `CNNs` `Swift`
 
-**💰 Employee Salary Prediction System** — *Jul 2025 – Aug 2025*
+** Employee Salary Prediction System** — *Jul 2025 – Aug 2025*
 Full-stack employee management platform with an integrated ML model for salary-increase prediction, backed by an optimized SQL schema.
 `ASP.NET MVC` `Python` `SQL`
 
@@ -72,36 +70,3 @@ Full-stack employee management platform with an integrated ML model for salary-i
 
 - **B.S. in Computer Science** — Düzce University *(Sep 2024 – Sep 2026)*
 - **B.S. in Computer Science** — Near East University, Nicosia *(Sep 2022 – Jun 2024)*
-
-<details>
-<summary><b>Certifications & Achievements</b></summary>
-<br>
-
-- Google Ideathon (2026)
-- Google Yapay Zeka ve Teknoloji Akademisi (2026)
-- NASA Space Apps Challenge Hackathon (2025)
-- Erasmus+ "Invest in YOUth" — Bansko, Bulgaria (2025)
-- Deep Learning Onramp, Image Processing Onramp (2025)
-- Machine Learning Onramp, Signal Processing Onramp, MATLAB Onramp (2024)
-- OBSS CodeMaster (2024)
-
-</details>
-
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Berkanksz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkanksz&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkanksz&hide_border=true&background=0D1117&stroke=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berkanksz&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" />
-</div>
