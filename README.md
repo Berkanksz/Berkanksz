@@ -1,9 +1,7 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" />
-</div>
+
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=180&section=header&text=BERKAN%20ÖKSÜZ&fontSize=48&fontAlignY=38&desc=Computer%20Engineer%20·%20AI%20%26%20Data%20Science&descAlignY=58&descAlign=50&fontColor=000000&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=00F0FF&amp;height=180&amp;section=header&amp;text=BERKAN%20ÖKSÜZ&amp;fontSize=48&amp;fontAlignY=38&amp;desc=Computer%20Engineer%20·%20AI%20%26%20Data%20Science&amp;descAlignY=58&amp;descAlign=50&amp;fontColor=000000&amp;descSize=18" alt="header" />
 </div>
 
 <div align="center">
