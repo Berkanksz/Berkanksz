@@ -21,20 +21,11 @@ Computer Engineer specializing in **deep learning, computer vision, and full-sta
 
 - **Backend AI Intern** — FlyRank *(Remote, Chicago)* — Jul 2026 – Present
   Building and optimizing Python backend APIs for AI-driven features, integrating ML pipelines with backend services for real-time inference, and maintaining relational database schemas for high-volume data.
-- **Data Science Intern** — Google *(Remote, Istanbul)* — Dec 2025 – Present
+- **Data Science Intern** — Google *(Remote, Istanbul)* — Dec 2025 – Sep 2026
   Processing large-scale datasets with Pandas/NumPy, training and fine-tuning predictive models with TensorFlow and Scikit-learn, and producing visualizations/reports on model performance.
 - **Software Developer Intern** — NetCollec *(Istanbul, Türkiye)* — Jul 2025 – Aug 2025
   Built a web-based employee management system (ASP.NET MVC) with an integrated Python model to predict salary increases, plus SQL schema design.
 
-## Featured Projects
-
-**Turkish Sign Language (TİD) Translation & Recognition System** — *Sep 2025 – Jun 2026*
-Real-time system translating Turkish Sign Language gestures into text and speech. Includes a custom-trained CNN for hand gesture recognition and a bidirectional feature that converts spoken/written Turkish into TİD signs, with a Swift mobile UI.
-`Python` `TensorFlow` `CNNs` `Swift`
-
-**Employee Salary Prediction System** — *Jul 2025 – Aug 2025*
-Full-stack employee management platform with an integrated ML model for salary-increase prediction, backed by an optimized SQL schema.
-`ASP.NET MVC` `Python` `SQL`
 
 ## Tech Stack
 
