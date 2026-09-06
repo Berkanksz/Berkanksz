@@ -1,9 +1,7 @@
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=00F0FF&amp;height=180&amp;section=header&amp;text=BERKAN%20%C3%96KS%C3%9CZ&amp;fontSize=48&amp;fontAlignY=38&amp;desc=Computer%20Engineer%20%C2%B7%20AI%20%26%20Data%20Science&amp;descAlignY=58&amp;descAlign=50&amp;fontColor=000000&amp;descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=180&section=header&text=BERKAN%20%C3%96KS%C3%9CZ&fontSize=48&fontAlignY=38&desc=Computer%20Engineer%20-%20AI%20and%20Data%20Science&descAlignY=58&descAlign=50&fontColor=000000&descSize=18" alt="header" />
 </div>
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-berkanoksuz.vercel.app-161b22?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://berkanoksuz.vercel.app/)
