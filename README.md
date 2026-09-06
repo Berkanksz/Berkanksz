@@ -59,10 +59,6 @@ Computer Engineer specializing in **deep learning, computer vision, and full-sta
 
 </div>
 
-## Education
-
-- **B.S. in Computer Science** — Düzce University *(Sep 2024 – Sep 2026)*
-- **B.S. in Computer Science** — Near East University, Nicosia *(Sep 2022 – Jun 2024)*
 
 
 <div align="center">
