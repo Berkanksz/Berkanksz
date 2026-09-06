@@ -64,7 +64,6 @@ Computer Engineer specializing in **deep learning, computer vision, and full-sta
 - **B.S. in Computer Science** — Düzce University *(Sep 2024 – Sep 2026)*
 - **B.S. in Computer Science** — Near East University, Nicosia *(Sep 2022 – Jun 2024)*
 
-## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Berkanksz/Berkanksz/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
