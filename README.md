@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-berkanoksuz.vercel.app-161b22?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://berkanoksuz.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-berkanksz01@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:berkanksz01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Berkan%20Öksüz-161b22?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/berkan-öksüz-1a96b7219)
-[![GitHub](https://img.shields.io/badge/GitHub-Berkanksz-161b22?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/Berkanksz)
+
 
 </div>
 
